@@ -1,0 +1,6 @@
+name: RankUpSystem
+version: 1.0
+author: Wither
+main: fr.wither.main.Werewolf
+commands:
+  #A venir
